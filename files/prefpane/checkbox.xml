@@ -2,6 +2,46 @@
 <root>
   <list>
     <item>
+      <name>Dvorax0r</name>
+      <list>
+        <item>
+          <name>Option+H to [</name>
+          <sysctl>remap.option_h_to_bracket_left</sysctl>
+          <autogen>--KeyToKey-- KeyCode::J, VK_OPTION, KeyCode::MINUS</autogen>
+        </item>
+        <item>
+          <name>Option+T to ]</name>
+          <sysctl>remap.option_t_to_bracket_right</sysctl>
+          <autogen>--KeyToKey-- KeyCode::K, VK_OPTION, KeyCode::EQUAL</autogen>
+        </item>
+        <item>
+          <name>Shift+Option+N to (</name>
+          <sysctl>remap.option_n_to_nine</sysctl>
+          <autogen>--KeyToKey-- KeyCode::L, VK_OPTION, 25</autogen>
+        </item>
+        <item>
+          <name>Shift+Option+S to )</name>
+          <sysctl>remap.option_s_to_zero</sysctl>
+          <autogen>--KeyToKey-- KeyCode::SEMICOLON, VK_OPTION, 29</autogen>
+        </item>
+        <item>
+          <name>Shift+Option+U to |</name>
+          <sysctl>remap.option_u_to_pipe</sysctl>
+          <autogen>--KeyToKey-- KeyCode::F, VK_OPTION, 42</autogen>
+        </item>
+        <item>
+          <name>Shift+Option+E to =</name>
+          <sysctl>remap.option_e_to_equal</sysctl>
+          <autogen>--KeyToKey-- KeyCode::D, VK_OPTION, 30</autogen>
+        </item>
+        <item>
+          <name>Control+Space to Escape</name>
+          <sysctl>remap.control_space_to_escape</sysctl>
+          <autogen>--KeyToKey-- KeyCode::SPACE, VK_CONTROL, KeyCode::ESCAPE</autogen>
+        </item>
+      </list>
+    </item>
+    <item>
       <name>General</name>
       <list>
         <item>
